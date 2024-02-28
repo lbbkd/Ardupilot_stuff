@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pymavlink import mavutil
 
 # Initialize a connection listening on a UDP port
